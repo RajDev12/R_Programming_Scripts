@@ -30,7 +30,7 @@ rpart.plot(tree)
 predictions = predict(tree, cardio_test)
 predictions
 
-#----------------------------------------------#
+#-------------d---------------------------------#
 #Another methos using party
 #Decision Tree using Party Package
 
