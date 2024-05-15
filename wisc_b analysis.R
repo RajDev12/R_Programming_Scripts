@@ -1,4 +1,5 @@
 # 24/August/2023
+# knn on wisc dataset
 
 getwd()
 wbcd <- read.csv("wisc_bc_data.csv", stringsAsFactors = FALSE)
