@@ -1,7 +1,7 @@
 
 
 #----------------------------------------------------#
-######Clustering using k means
+######Clustering using k means on iris dataset
 # Installing Packages
 install.packages("arules")
 install.packages("cluster")
